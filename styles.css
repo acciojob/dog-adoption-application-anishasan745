@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+body {
+	background-color: steelblue;
+}
+
+::placeholder {
+	color: #333;
+}
